@@ -9,6 +9,7 @@ setup(
     description='utilties for tensorflow 2.x.x',
     install_requires=['tensorflow >= 2.0.0'],
     packages=find_packages('tf_utils'),
+    package_dir={'': 'tf_utils'},
     setup_requires=["wheel"],
     include_package_data=True,
 )
