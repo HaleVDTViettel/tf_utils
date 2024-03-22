@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='tf-utils',
+    name='tf_utils',
     version='0.0.1',
     url='https://github.com/HaleVDTViettel/tf-utils.git',
     author='HaleVDTViettel',
